@@ -113,10 +113,10 @@ related:
 இந்த வகையான மக்களிடம் சகிப்பின்மையை கடைப்பிடிப்பது சிறந்தது. இதை தடுக்காமல் விட்டுவிட்டால், எதிர்மறையான மக்கள் உங்கள் சமூகத்தில் பிறருக்கு சங்கடத்தை ஏற்படுத்தலாம். அவர்கள் விலக கூட நேரிடலாம்.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   உண்மை என்னவென்றால் ஒரு ஆதரவான சமூகம் இருப்பது முக்கியமானது. என் சக பணியாளர்கள், நட்பு இணைய அந்நியர்கள் மற்றும் வம்பளக்கிற ஐ.ஆர்.சி. சேனல்கள் ஆகியோரின் உதவியின்றி இந்த வேலையை நான் செய்ய முடியாது. (...) குறைவாக குடியேறாதீர்கள். அறிவில்லாதவர்களை பொறுத்துக்கொள்ள தேவையில்லை.
   <p markdown="1" class="pquote-credit">
-— @karissa, ["ஒரு FOSS திட்டத்தை எவ்வாறு இயக்க வேண்டும்"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, ["ஒரு FOSS திட்டத்தை எவ்வாறு இயக்க வேண்டும்"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
@@ -138,17 +138,17 @@ related:
 
 உங்கள் திட்டத்தில் உள்ள பெரும்பாலான மக்களுடன் நீங்கள் தொடர்பு கொள்ள மாட்டீர்கள். நீங்கள் பெறாத பங்களிப்புகள் இருக்கலாம், ஏனெனில் யாரோ ஒருவர் பயமுறுத்தப்பட்டார் அல்லது எங்கு தொடங்குவது என தெரியாமல் இருக்கலாம். உங்கள் திட்டத்தை இருந்து யாரேனும் விலகுவதை உங்களின் ஒரு சில கனிவான வார்த்தைகளால் தடுக்கலாம்.
 
-உதாரணமாக, [ரூபினிஸ்](https://github.com/rubinius/rubinius/) இங்கே எப்படி [அதன் பங்களிப்பு வழிகாட்டியை](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md) தொடங்குகியது:
+உதாரணமாக, [ரூபினிஸ்](https://github.com/rubinius/rubinius/) இங்கே எப்படி [அதன் பங்களிப்பு வழிகாட்டியை](https://github.com/rubinius/rubinius/blob/HEAD/.github/contributing.md) தொடங்குகியது:
 
 > ரூபினியஸைப் பயன்படுத்துவதற்கு நன்றி தெரிவிப்பதன் மூலம் நாம் துவங்க வேண்டும். இந்த திட்டம் காதலால் உருவானது, மற்றும் பிழைகள் பிடிக்க, செயல்திறன் மேம்பாடுகள், மற்றும் ஆவணங்களை உதவி என்று அனைத்து பயனர்களையும் பாராட்டுகிறோம். ஒவ்வொரு பங்களிப்பும் அர்த்தமுள்ளது, எனவே பங்கு பெறுவதற்கு நன்றி. இதனால் கூறப்படுவதன் என்னவெனில், உங்களுடைய பிரச்சினையை வெற்றிகரமாக தீர்க்க நாங்கள் பின்பற்றும் சில வழிகாட்டு நெறிகள் நீங்கள் பின்பற்ற வேண்டும் .
 
 ### Share ownership of your project
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
   உங்கள் தலைவர்கள் வித்தியாசமான கருத்துக்களைக் கொண்டிருக்கலாம், அனைத்து ஆரோக்கியமான சமூகங்களைப் போல! எனினும், உரத்த குரல் எப்போதும் மக்கள் சோர்வாகி வெளியேறவும் மூலம் வெற்றி பெறவில்லை என உறுதி செய்ய நடவடிக்கை எடுக்க வேண்டும், மற்றும் குறைந்த முக்கிய மற்றும் சிறுபான்மை குரல்கள் கேட்கப்பட வேண்டும்.
   <p markdown="1" class="pquote-credit">
-— @sarahsharp, ["என்ன ஒரு நல்ல சமூகத்தை உருவாக்குகிறது?"](https://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sagesharp, ["என்ன ஒரு நல்ல சமூகத்தை உருவாக்குகிறது?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
@@ -160,7 +160,7 @@ related:
 
 ![Cookiecutter சிக்கல்](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* [சினாட்ரா](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md) போன்று உங்கள் திட்டத்தில் பங்களித்த அனைவருக்கும் **உங்கள் திட்டத்தில் ஒரு பங்களிப்பாளர்கள்(CONTRIBUTORS) அல்லது நூலாசிரியர்கள்(AUTHORS) கோப்பைத் தொடங்கவும்.**
+* [சினாட்ரா](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md) போன்று உங்கள் திட்டத்தில் பங்களித்த அனைவருக்கும் **உங்கள் திட்டத்தில் ஒரு பங்களிப்பாளர்கள்(CONTRIBUTORS) அல்லது நூலாசிரியர்கள்(AUTHORS) கோப்பைத் தொடங்கவும்.**
 
 * உங்கள் சமூகம் பெரியதாயிருந்தால், **ஒரு செய்திமடலை முடிக்க அல்லது வலைப்பதிவு இடுகையை எழுதுவதன் முலம்** பங்களிப்பாளர்களுக்கு நன்றி சொல்லுங்கள். ரஸ்ட்-ன் [இந்த வாரம் ரஸ்ட்](https://this-week-in-rust.org/) மற்றும் ஹூடி-ன் [கூச்சலிடுங்கள்](http://hood.ie/blog/shoutouts-week-24.html) இரண்டு நல்ல உதாரணங்களாகும்.
 

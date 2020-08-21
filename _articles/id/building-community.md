@@ -113,10 +113,10 @@ Sembarang proyek yang terkenal akan menarik orang lain untuk merusak dibandingka
 Lakukan yang terbaik untuk mengadopsi kebijakan tanpa toleransi terhadap orang-orang jenis ini. Jika dibiarkan, orang-orang negatif ini akan membuat orang lain menjadi tidak nyaman. Bahkan mereka bisa meninggalkan proyek Anda.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   Memiliki komunitas yang mendukung adalah kuncinya. Saya tidak akan pernah bisa melakukan pekerjaan ini tanpa rekan-rekan saya, orang asing di Internet yang ramah, dan chanel IRC yang ramai (...).
   <p markdown="1" class="pquote-credit">
-— @karissa, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
@@ -138,17 +138,17 @@ Akhirnya, gunakan dokumentasi Anda untuk membuat orang lain nyaman pada setiap l
 
 Anda tidak akan pernah berinteraksi dengan sebagian besar orang-orang yang hadir pada proyek Anda. Bisa jadi terdapat kontribusi yang tidak Anda dapatkan karena seseorang merasa terintimidasi atau tidak tahu bagaimana memulainya. Sebuah kata-kata sederhana bisa menjaga mereka untuk tetap bertahan dan bebas dari rasa frustasi.
 
-Sebagai contoh, berikut bagaimana cara [Rubinius](https://github.com/rubinius/rubinius/) memulai [panduan kontribusinya](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md):
+Sebagai contoh, berikut bagaimana cara [Rubinius](https://github.com/rubinius/rubinius/) memulai [panduan kontribusinya](https://github.com/rubinius/rubinius/blob/HEAD/.github/contributing.md):
 
 > Kita ingin memulainya dengan mengucapkan terima kasih karena menggunakan Rubinius. Proyek ini merupakan hasil cinta kami, dan kami menghargai semua pengguna yang menemukan kesalahan, membuat perbaikan performa, dan membantu dengan dokumentasi. Setiap kontribusi sangat berharga, sehingga kami mengucapkan terima kasih untuk berpartisipasi. Meski demikian, berikut adalah beberapa panduan yang kami harapkan untuk bisa diikuti sehingga kami bisa menyelesaikan permasalahan Anda dengan baik.
 
 ### Berbagi kepemilikan dari proyek Anda
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
   Pemimpin Anda akan memiliki opini  yang berbeda, seperti halnya komunitas lainnya! Namun, Anda perlu mengambil langkah-langkah untuk memastikan bahwa suara terbesar tidak selalu menang, dan suara minoritas akan selalu didengarkan.
   <p markdown="1" class="pquote-credit">
-— @sarahsharp, ["What makes a good community?"](https://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sagesharp, ["What makes a good community?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
@@ -160,7 +160,7 @@ Cari cara untuk bisa berbagi kepemilikan dengan komunitas Anda sebanyak mungkin.
 
 ![cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* **Bualah dokumen CONTRIBUTORS atau AUTHORS pada proyek Anda** yang mendata semua orang yang berkontribusi pada proyek Anda, seperti [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md).
+* **Bualah dokumen CONTRIBUTORS atau AUTHORS pada proyek Anda** yang mendata semua orang yang berkontribusi pada proyek Anda, seperti [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md).
 
 * Jika Anda memiliki komunitas yang cukup besar, **kirimkan surat berita atau tuliskan blog** dan ucapkan terima kasih pada kontributor. [This Week in Rust](https://this-week-in-rust.org/) milik Rust dan [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) milik Hoodie adalah dua contoh bagus.
 

@@ -54,7 +54,7 @@ Encorajar outros contribuidores é, também, um investimento em si mesmo. Quando
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Você alguma vez já esteve presente em um evento (de tecnologia), onde não conhecia ninguém, porém o restante das pessoas parecia se reunir em grupos e batiam papo como velhos amigos? (...) Agora imagine que você quer contribuir em um projeto open source, mas não consegue enxergar por que ou como isso está acontecendo.
   <p markdown="1" class="pquote-credit">
-  — @janl, ["Sustainable Open Source"](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
+  — @janl, ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -111,10 +111,10 @@ Qualquer projeto popular irá, inevitavelmente, atrair pessoas que prejudicam, a
 Dê o melhor de si para adotar uma política de tolerância zero contra esse tipo de gente. Se não forem controladas, elas farão com que outras pessoas na sua comunidade se sintam desconfortáveis, podendo até mesmo abandoná-la.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   A verdade é que ter uma comunidade solidária é uma característica chave. Eu nunca poderia ter feito este trabalho sem a ajuda dos meus colegas, estranhos amigáveis da internet, e canais IRC tagarelas. (...) Não se contente com menos. Não se contente com idiotas.
   <p markdown="1" class="pquote-credit">
-  — @karissa, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+  — @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
   </p>
 </aside>
 
@@ -136,17 +136,17 @@ Por fim, use a sua documentação para fazer as pessoas se sentirem bem-vindas a
 
 Você não interagirá com a maior parte das pessoas que chegarem ao seu projeto. Podem haver contribuições que você não recebeu porque alguém se sentiu intimidado ou não soube como começar. Até mesmo algumas palavras gentis podem fazer com que alguém não deixe, frustradamente, o seu projeto.
 
-Por exemplo, veja como [Rubinius](https://github.com/rubinius/rubinius/) introduz o [seu guia de contribuição](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md):
+Por exemplo, veja como [Rubinius](https://github.com/rubinius/rubinius/) introduz o [seu guia de contribuição](https://github.com/rubinius/rubinius/blob/HEAD/.github/contributing.md):
 
 > Em primeiro lugar, gostaríamos de agradecer por usar o Rubinus. Este projeto é um trabalho de amor, e apreciamos todos os usuários que capturam bugs, fazem melhorias de desempenho, e ajudam com a documentação. Toda contribuição é importante, então obrigado por participar. Dito isso, aqui estão algumas orientações que pedimos que siga, de modo que possamos ter sucesso em identificar o seu problema.
 
 ### Compartilhe a responsabilidade pelo seu projeto
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/sarahsharp?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
   Seus líderes terão opiniões diferentes, como toda comunidade saudável deve ser! Porém, você precisa tomar certas atitudes para assegurar que a voz mais alta não seja sempre a vencedora, por deixar as outras pessoas cansadas, e que minorias e vozes menos proeminentes sejam ouvidas.
   <p markdown="1" class="pquote-credit">
-  — @sarahsharp, ["What makes a good community?"](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/)
+  — @sagesharp, ["What makes a good community?"](http://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
@@ -158,7 +158,7 @@ Procure encontrar maneiras de compartilhar a propriedade com a sua comunidade o 
 
 ![Cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* **Crie um arquivo CONTRIBUTORS ou AUTHORS em seu projeto** que liste todos os que contribuíram para o seu projeto, como o [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md) faz.
+* **Crie um arquivo CONTRIBUTORS ou AUTHORS em seu projeto** que liste todos os que contribuíram para o seu projeto, como o [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md) faz.
 
 * Se você possui uma comunidade de tamanho razoável, **envie uma newsletterm ou escreva um post em um blog** agradecendo aos contribuidores. A [This Week in Rust](https://this-week-in-rust.org/), do Rust, e a [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html), da Hoodie, são dois bons exemplos.
 
@@ -248,7 +248,7 @@ Se está claro que uma conversa não está caminhando para nenhum lugar, não h�
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Guiar uma thread em direção à utilidade, sem ser insistente, é uma arte. Advertir as pessoas a parar de perder tempo não irá funcionar, ou mesmo pedir para que não postem nada a não ser que tenham algo construtivo a dizer. (...) Em vez disso, você tem de sugerir condições para um maior progresso: dar as pessoas uma rota, um caminho a seguir que leve aos resultados que você queira, sem que pareça que você esteja ditando uma conduta.
   <p markdown="1" class="pquote-credit">
-  — @kfogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#common-pitfalls)
+  — @kfogel, [_Producing OSS_](https://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
 </aside>
 
